@@ -33,10 +33,10 @@ Built for production use by RF coordinators and system techs managing Sennheiser
 Make sure your project is set up like this:
 
 wwb-convertor/
-├── input_files/          # Put your .shw files here
-├── converted_files/      # Your .wsm output files will appear here
-├── shw_to_wsm_converter.py
-└── README.md
+input_files/          # Put your .shw files here
+converted_files/      # Your .wsm output files will appear here
+shw_to_wsm_converter.py
+README.md
 
 ---
 
