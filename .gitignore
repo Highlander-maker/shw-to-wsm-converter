@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+converted_files/
+*.DS_Store
