@@ -28,15 +28,21 @@ Built for production use by RF coordinators and system techs managing Sennheiser
 
 ---
 
+<pre lang="markdown">
+
 ### 📁 1. Folder Structure
 
 Make sure your project is set up like this:
 
+```
 wwb-convertor/
-input_files/          # Put your .shw files here
-converted_files/      # Your .wsm output files will appear here
-shw_to_wsm_converter.py
-README.md
+├── input_files/              # Place your .shw files here
+│   └── MultiRangeTest.shw
+├── converted_files/          # Your converted .wsm files will appear here
+├── shw_to_wsm_converter.py   # Python conversion script
+└── README.md                 # This file
+```
+</pre>
 
 ---
 
